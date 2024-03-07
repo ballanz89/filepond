@@ -17,7 +17,7 @@ export default {
     labelButtonRemoveItem: "Elimina",
     labelButtonAbortItemLoad: "Cancella",
     labelButtonRetryItemLoad: "Ritenta",
-    labelButtonAbortItemProcessing: "Camcella",
+    labelButtonAbortItemProcessing: "Cancella",
     labelButtonUndoItemProcessing: "Indietro",
     labelButtonRetryItemProcessing: "Ritenta",
     labelButtonProcessItem: "Carica",
